@@ -1,0 +1,464 @@
+Started job with id: 0d94e48f22c16a7a0ac20c2171232fcbb24e527744b2237d6d2be614a78b4867
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: IN_PROGRESS
+Job status: SUCCEEDED
+Resultset page received: 1
+Resultset page received: 2
+Resultset page received: 3
+[94mICICI LOMBARD GIC LTD[0m
+[94mICICI CLombard[0m
+[94mGROUP HEALTH INSURANCE[0m
+[94mNibhaye Vaade[0m
+[94mQuote cum proposal format[0m
+[94mQuote No.(4016/IP-03843503/001)[0m
+[94mProposer Details[0m
+[94mPolicy Coverages[0m
+[94mName of the Proposer[0m
+[94mELIXIR ENTERPRISES[0m
+[94mPolicy Construct[0m
+[94mEmployer - Employee[0m
+[94mAND HOTELS PRIVATE[0m
+[94mOPD/IPD[0m
+[94mIPD[0m
+[94mLIMITED[0m
+[94mService Category[0m
+[94mBoth(Cashless +[0m
+[94mLocation of Proposer[0m
+[94mBANGALORE[0m
+[94mReimbursement)[0m
+[94mIndustry Type[0m
+[94mWholesale/Retail Trading[0m
+[94mIPD Claim Intimation Period 30 Days[0m
+[94mIntermediary Name[0m
+[94mRADIANT INSURANCE[0m
+[94m30 Days Waiting Period[0m
+[94mWaived Off[0m
+[94mBROKING PRIVATE[0m
+[94mFirst year exclusion[0m
+[94mWaived Off[0m
+[94mLIMITED[0m
+[94m9 months waiting period[0m
+[94mWaived Off[0m
+[94mDate[0m
+[94m12/Dec/2023[0m
+[94mThird party Administrator[0m
+[94mIL HEALTH CARE[0m
+[94mPolicy Details[0m
+[94mNo of Employees[0m
+[94m140[0m
+[94mFloater/Non-Floater[0m
+[94mFloater[0m
+[94mNo. of Dependents[0m
+[94m64[0m
+[94mTransaction[0m
+[94mMarket Rollover[0m
+[94mTotal SI[0m
+[94m23,900,000[0m
+[94mFamily Definition[0m
+[94mSelf+Spouse+4 Children[0m
+[94mPremium Details[0m
+[94mGross Premium[0m
+[94m947,498.69[0m
+[94mStamp Duty[0m
+[94m.50[0m
+[94mAdd: Goods & Service Tax 170,549.76[0m
+[94mTotal Premium Payable[0m
+[94m1,118,049[0m
+[94m*Premium value mentioned above is inclusive of taxes[0m
+[94mapplicable.[0m
+[94mBasic[0m
+[94m367871.25[0m
+[94mPolicy Conditions[0m
+[94mAge Band[0m
+[94m1 day to 80 years[0m
+[94mFamily Definition[0m
+[94mEmployee, spouse , 4 dependent children upto 25 yrs. of Age covered under policy.[0m
+[94mSI is restricted to Rs. 100000,200000,300000,500000 per family during the policy period as per[0m
+[94mSum Insured[0m
+[94mannexure attached herewith.[0m
+[94m1% of SI(100000) maximum upto Rs.3500 for Normal and 2% of SI(100000) maximum upto[0m
+[94mRs.5000 for ICU (inclusive of nursing charges) . If insured is admitted in a higher category, then[0m
+[94minsured will bear difference of all medical expenses as in final hospital bill in same[0m
+[94mproportion.; 1% of SI(200000) maximum upto Rs.3500 for Normal and 2% of SI(200000)[0m
+[94mmaximum upto Rs.5000 for ICU (inclusive of nursing charges) If insured is admitted in a higher[0m
+[94mcategory, then insured will bear difference of all medical expenses as in final hospital bill in[0m
+[94mRoom Rent[0m
+[94msame proportion.;1% of SI(300000) maximum upto Rs.3500 for Normal and 2% of SI(300000)[0m
+[94mmaximum upto Rs.5000 for ICU (inclusive of nursing charges) If insured is admitted in a higher[0m
+[94mcategory, then insured will bear difference of all medical expenses as in final hospital bill in[0m
+[94msame proportion.; 1% of SI(500000) maximum upto Rs.3500 for Normal and 2% of SI(500000)[0m
+[94mmaximum upto Rs.5000 for ICU (inclusive of nursing charges) . If insured is admitted in a higher[0m
+[94mcategory, then insured will bear difference of all medical expenses as in final hospital bill in[0m
+[94msame proportion.[0m
+[94mPage 1 of 6[0m
+[94mICICI LOMBARD GIC LTD[0m
+[94mICICI CLombard[0m
+[94mGROUP HEALTH INSURANCE[0m
+[94mNibhaye Vaade[0m
+[94mQuote cum proposal format[0m
+[94mQuote No.(4016/IP-03843503/001)[0m
+[94mMaternity Benefit[0m
+[94mFor Metro 50000-50000 for Normal and C-section respectively & for Non-Metro 40000-40000[0m
+[94mfor Normal & C-[0m
+[94mfor Normal and C-section respectively for First 2 children.[0m
+[94mSection[0m
+[94mPre-Existing[0m
+[94mPre-Existing diseases are covered[0m
+[94mDisease[0m
+[94mPre-Post[0m
+[94mPre Hospitalisation and Post Hospitalisation for 60-90 days respectively are covered.[0m
+[94mHospitalisation[0m
+[94mBaby Day 1[0m
+[94mBaby covered from day1 within Family Sum Insured[0m
+[94mPre/Post Natal[0m
+[94mPre-Post Natal Expenses to the limit of Rs 5000 is covered Within Maternity Limit[0m
+[94mExpense[0m
+[94mAmbulance[0m
+[94mAmbulance Charges limited to Rs 1000 per person.[0m
+[94mService[0m
+[94mHealth Assistance is a dedicated medical care service that assists you in all your health related[0m
+[94mHealth[0m
+[94mqueries for identifying Specialist/Hospital/fixing an appointment with Doctors/Nutritionist[0m
+[94mAssistance[0m
+[94m/facilitating 2nd opinion, etc. To avail this facility please call our Helpline at 040 6627 4205 (9:30[0m
+[94mServices[0m
+[94mam to 6 pm Mon to Sat, excluding public holidays) or write to[0m
+[94mhealthassistance@icicilombard.com.[0m
+[94mDomiciliary[0m
+[94mExcluded[0m
+[94mHospitalisation[0m
+[94mSeptoplasty, Infertility and Related Ailments incl. Male sterility'; Treatment on trial/experimental[0m
+[94mbasis; Admin/Registration/Service/Misc. Charges; Expenses on fitting of Prosthesis; Any[0m
+[94mExclusion[0m
+[94mdevice/instrument/machine contributing/replacing the function of an organ; Holter Monitoring[0m
+[94mare outside the scope of the policy.[0m
+[94mPolicy also covers hospitalization arising out of Psychiatric ailments within a limit of s.30000[0m
+[94mSpecial Condition[0m
+[94mas well as treatment of Functional Endoscopic Sinus Surgery within a limit of Rs.35000 The[0m
+[94mcoverage for treatment of mental illness is also covered upto Rs 30000 within the sum insured.[0m
+[94mCo-Payment[0m
+[94mFor spouse only 0% co-pay for all claims.[0m
+[94mCo-Payment[0m
+[94mFor children only 0% co-pay for all claims.[0m
+[94mCo-Payment[0m
+[94mFor employee only 0% co-pay for all claims.[0m
+[94mDay Care[0m
+[94mDay Care Procedures are Covered as per the standard list[0m
+[94mProcedures[0m
+[94mClaim must be filed within 30 days from the date of completion of treatment. However, the[0m
+[94mCompany may at its discretion consider waiver based on merits of the claim, where there is[0m
+[94mClaim submission[0m
+[94mdelay in intimation or in submission of documents due to unavoidable circumstances and it is[0m
+[94mclause[0m
+[94mproved that the delay was for reasons beyond the control of the insured and under the[0m
+[94mcircumstances in which the insured was placed it was not possible for him or any other person[0m
+[94mto give such notice or file claim within the prescribed time-limit[0m
+[94mPage 2 of 6[0m
+[94mICICI LOMBARD GIC LTD[0m
+[94mICICI CLombard[0m
+[94mGROUP HEALTH INSURANCE[0m
+[94mNibhaye Vaade[0m
+[94mQuote cum proposal format[0m
+[94mQuote No.(4016/IP-03843503/001)[0m
+[94mMid term inclusion of dependents will be possible only in case of:a) spouse (on account of[0m
+[94mMid-Term[0m
+[94mmarriage during the policy term) b) children (childbirth during the policy term but after the the[0m
+[94mInclusion[0m
+[94mchild has completed 91 days of age) subject to not more than four children[0m
+[94mReasonable and[0m
+[94mCustomary[0m
+[94mWaived Off[0m
+[94mCharges[0m
+[94mClaim Intimation[0m
+[94mand Network[0m
+[94mWaived Off[0m
+[94mclause[0m
+[94mPremium to be charged on Pro Rata Basis for addition/deletion endorsement. No Refund for[0m
+[94mAdd-Del of Lives[0m
+[94mdeletion-if lives less than minimum required and if insured has claimed during policy[0m
+[94mSpecial Condition[0m
+[94mLasik Surgery is covered if correction index is +/-6.5[0m
+[94m1[0m
+[94mSpecial Condition[0m
+[94mTerrorism is covered[0m
+[94m2[0m
+[94mSpecial Condition[0m
+[94mAir Ambulance is covered upto Rs 100,000 or family sum insured whichever is less.[0m
+[94m4[0m
+[94mAttendant charges are cover upto Rs 5,000 (Per life incase case of Employee only policy or[0m
+[94melse it's Per Family within Family sum insured) if length of stay for the patient is more than 5[0m
+[94mSpecial Condition[0m
+[94mdays. Add on covers cost pertaining to boarding and lodging of the attendant in a[0m
+[94m5[0m
+[94mhospital/location prescribed by treating Medical Practitioner on reimbursement basis by[0m
+[94mpresenting original Bills for each cost incurred.[0m
+[94mSpecial Condition[0m
+[94mLucentis is covered upto Rs 50,000 Per family within the Sum Insured[0m
+[94m6[0m
+[94mSpecial Condition[0m
+[94mInternal Congenital disease is covered and External congenital disease is covered in life[0m
+[94m7[0m
+[94mthreatning situation.[0m
+[94mSpecial Condition[0m
+[94m50% Co-Pay for cyberknife treatment/Stem Cell Transplantation. Cochlear Implant treatment[0m
+[94m8[0m
+[94mshall be restricted to 50% of the SI.[0m
+[94mPortability[0m
+[94mPortability is available on this product as per IRDA directive and product features[0m
+[94mTermination[0m
+[94mPolicy will cease to be in effect from the date of termination of relationship with the organization.[0m
+[94mID Cards[0m
+[94mPhysical cards will not be issued[0m
+[94mLast year claim[0m
+[94mLast year claim paid amount is Rs.484719 and outstanding amount is .217848 as on 29-[0m
+[94mdetails[0m
+[94mNOV-23 in expiring policy with208 inception lives[0m
+[94mTransaction[0m
+[94mMarket Rollover[0m
+[94mExisting Insurer[0m
+[94mTATA AIG GENERAL INSURANCE COMPANY LTD.[0m
+[94mThird Party[0m
+[94mICICI Lombard Healthcare[0m
+[94mAdministrator[0m
+[94mPage 3 of 6[0m
+[94mICICI LOMBARD GIC LTD[0m
+[94mICICI CLombard[0m
+[94mGROUP HEALTH INSURANCE[0m
+[94mNibhaye Vaade[0m
+[94mQuote cum proposal format[0m
+[94mQuote No.(4016/IP-03843503/001)[0m
+[94mDisease wise[0m
+[94mNo SubLimits[0m
+[94msublimits[0m
+[94mDemography[0m
+[94mSum[0m
+[94m76-80[0m
+[94m0-18[0m
+[94m19-35[0m
+[94m36-45[0m
+[94m46-55[0m
+[94m56-60[0m
+[94m61-65[0m
+[94m66-70[0m
+[94m71-75[0m
+[94mTotal[0m
+[94mInsured[0m
+[94mAbove[0m
+[94m100,000[0m
+[94m6[0m
+[94m52[0m
+[94m21[0m
+[94m18[0m
+[94m1[0m
+[94m0[0m
+[94m0[0m
+[94m0[0m
+[94m0[0m
+[94m98[0m
+[94m200,000[0m
+[94m10[0m
+[94m24[0m
+[94m22[0m
+[94m10[0m
+[94m0[0m
+[94m0[0m
+[94m0[0m
+[94m0[0m
+[94m0[0m
+[94m66[0m
+[94m300,000[0m
+[94m4[0m
+[94m1[0m
+[94m6[0m
+[94m7[0m
+[94m0[0m
+[94m1[0m
+[94m0[0m
+[94m0[0m
+[94m0[0m
+[94m19[0m
+[94m500,000[0m
+[94m5[0m
+[94m2[0m
+[94m5[0m
+[94m3[0m
+[94m1[0m
+[94m3[0m
+[94m1[0m
+[94m1[0m
+[94m0[0m
+[94m21[0m
+[94mTotal[0m
+[94m25[0m
+[94m79[0m
+[94m54[0m
+[94m38[0m
+[94m2[0m
+[94m4[0m
+[94m1[0m
+[94m1[0m
+[94m0[0m
+[94m204[0m
+[94mRATES FOR ENDORSEMENT (Per Life)[0m
+[94mSum[0m
+[94m76-80[0m
+[94m0-18[0m
+[94m19-35[0m
+[94m36-45[0m
+[94m46-55[0m
+[94m56-60[0m
+[94m61-65[0m
+[94m66-70[0m
+[94m71-75[0m
+[94mInsured[0m
+[94mAbove[0m
+[94m100,000[0m
+[94m1859[0m
+[94m3031[0m
+[94m3341[0m
+[94m4927[0m
+[94m7668[0m
+[94m9574[0m
+[94m11488[0m
+[94m13558[0m
+[94m15625[0m
+[94m200,000[0m
+[94m2083[0m
+[94m3617[0m
+[94m3994[0m
+[94m6187[0m
+[94m10080[0m
+[94m13162[0m
+[94m15482[0m
+[94m18275[0m
+[94m21057[0m
+[94m300,000[0m
+[94m2807[0m
+[94m4441[0m
+[94m4900[0m
+[94m7574[0m
+[94m12349[0m
+[94m16136[0m
+[94m18976[0m
+[94m22400[0m
+[94m25811[0m
+[94m500,000[0m
+[94m5077[0m
+[94m6075[0m
+[94m6694[0m
+[94m10366[0m
+[94m16136[0m
+[94m21970[0m
+[94m25894[0m
+[94m30569[0m
+[94m35222[0m
+[94mGrievances[0m
+[94mFor resolution of any query or grievance, Insured may contact the respective branch office of the Company or may[0m
+[94mcall toll free no. 1800-2666 or may approach us at the sub section "Grievance Redressal" on our website[0m
+[94mwww.icicilombard.com (Customer Support section). However, if the resolution provided by us is not satisfactory you[0m
+[94mmay approach Insurance Regulatory and Development Authority (IRDA) through the Integrated Grievance[0m
+[94mManagement Section (IGMS) or IRDA Grievance Call Centre(IGCC) at their toll free no. 155255.[0m
+[94mQuote is valid for 45 days.Quote is liable to change with change in info.[0m
+[94mPolicy Details[0m
+[94mContact Information[0m
+[94mPeriod of Insurance[0m
+[94mFrom: 22/Dec/2023[0m
+[94mHR Name[0m
+[94mTo: 21/Dec/2024[0m
+[94mHR Contact No[0m
+[94mPolicy conditions as per quote format.[0m
+[94mHR Email Id[0m
+[94mPage 4 of 6[0m
+[94mICICI LOMBARD GIC LTD[0m
+[94mICICI CLombard[0m
+[94mGROUP HEALTH INSURANCE[0m
+[94mNibhaye Vaade[0m
+[94mQuote cum proposal format[0m
+[94mQuote No.(4016/IP-03843503/001)[0m
+[94mCommunication Details[0m
+[94mMailing Address[0m
+[94mAddress of Recipient[0m
+[94mAddress 1[0m
+[94mAddress 2[0m
+[94mDistrict/City[0m
+[94mState[0m
+[94mCountry[0m
+[94mPincode[0m
+[94mI/We, the undersigned hereby declare that the above statements and particulars are true, accurate and complete[0m
+[94mand I/We declare and agree that this declaration and the answers given above shall be held to be promissory and[0m
+[94mshall be the basis of contract between me/us and the company.[0m
+[94mI/We, the undersigned have read and understood the Guidelines on Group Insurance Policies issued by the[0m
+[94mAuthority vide ref. no. 015/IRDA/Life/Circular/GI Guidelines 2005 dated July 14, 2005, as amended from time to[0m
+[94mtime, and shall adhere to its provisions at all times.[0m
+[94mI/We hereby give my/our consent to the Company to verify and obtain my/our identity/address proof as well as the[0m
+[94midentity /address proof of the insured through Central KYC Registry or UIDAI or through any other modes for the[0m
+[94mpurpose of undertaking KYC.[0m
+[94mI/We hereby agree and ensure to maintain details of all the beneficiaries covered under the policy and shall share[0m
+[94mthe same with Company as and when required.[0m
+[94mAre you or any of the proposed applicants a PEP* or a[0m
+[94mNO[0m
+[94mclose relative of a PEP*?[0m
+[94m*Politically Exposed Persons (PEPs) are individuals who are or have been entrusted with prominent public functions[0m
+[94min a foreign country, e.g., Heads of States/Governments, senior politicians, senior government/judicial/military[0m
+[94mofficers, senior executives of state-owned corporations, important political party officials, etc.[0m
+[94mPlace:[0m
+[94mProposer's Signature:[0m
+[94mName:[0m
+[94mDate:[0m
+[94mGUIDELINE FOR COMPLETION OF THE FORM[0m
+[94m1.Insurance is a contract of utmost good faith requiring the Insured not only to disclose all material facts but also not[0m
+[94mto suppress any material facts in response to the questions in the proposal form. If you think any fact is material,[0m
+[94mplease disclose it.[0m
+[94m2. The Policy shall become voidable at the option of the Insurer, in the event of any untrue or incorrect statement,[0m
+[94mmisrepresentation, non-description or non-disclosure in any material particular in the proposal form/personal[0m
+[94mstatement, declaration and connected documents, or any material information has been withheld by the proposer or[0m
+[94many one acting on his behalf to obtain any benefit under this policy.[0m
+[94mPage 5 of 6[0m
+[94mICICI LOMBARD GIC LTD[0m
+[94mICICI CLombard[0m
+[94mGROUP HEALTH INSURANCE[0m
+[94mQuote cum proposal format[0m
+[94mNibhaye Vaade[0m
+[94mQuote No.(4016/IP-03843503/001)[0m
+[94mNote:[0m
+[94mCoverage of risk is subject to realization of premium by the Company. Insurance coverage under the policy will[0m
+[94mcommence only on realization of full premium, receipt of complete reports (wherever applicable) and subject to[0m
+[94munderwriting approval by the company. In case premiums not realized by the Company due to any reason, company[0m
+[94mshall not be on cover and contract of insurance shall be treated as void ab-initio. Excess payment, if any, will be[0m
+[94mrefunded without any interest on receipt of required documents as necessary or will be utilized in future policy[0m
+[94missuance.[0m
+[94mSTATUTORY WARNING[0m
+[94mPROHIBITION OF REBATES[0m
+[94mSection 41 of the Insurance Act, 1938 as amended by the Insurance Laws (Amendment) Act, 2015[0m
+[94m1 No person shall allow or offer to allow, either directly or indirectly as an inducement to any person to[0m
+[94m)[0m
+[94mtake out or renew or continue an insurance in respect of any kind of risk relating to lives or property,[0m
+[94min India, any rebate of the whole or part of the commission payable or any rebate of the premium[0m
+[94mshown on the policy, non shall any person taking out or renewing or continuing a Policy accept any[0m
+[94mrebate, except such rebate as may be allowed in accordance with the published prospectuses or[0m
+[94mtables of the Insurer.[0m
+[94m2[0m
+[94mAny person making default in complying with the provisions of this section shall be punishable with[0m
+[94m)[0m
+[94mfine which may extend to ten lac rupees.[0m
+[94mICICI Lombard General Insurance Company Limited[0m
+[94mIRDA Regn. No. 115[0m
+[94mCIN: U67200MH2000PLC129408[0m
+[94mMailing Address:[0m
+[94mRegistered Office:[0m
+[94mToll Free No: 1800-2666[0m
+[94m401 & 402, 4th Floor, Interface 11, ICICI Lombard House, 414, Veer Savarkar Marg, Alternate No: +919223622666 (chargeable)[0m
+[94mNew Linking Road, Malad (West), Near Siddhi Vinayak Temple, Prabhadevi,[0m
+[94mEmail:customersupport@icicilombard.com[0m
+[94mMumbai 400064[0m
+[94mMumbai - 400025[0m
+[94mWebsite:www.icicilombard.com[0m
+[94mPage 6 of 6[0m
